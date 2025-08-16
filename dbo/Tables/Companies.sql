@@ -6,5 +6,5 @@
     [Email] VARCHAR(50) NULL,
     [Notes] NVARCHAR(50) NULL,
     CONSTRAINT [PK_Clients] PRIMARY KEY CLUSTERED ([Id] ASC)
-);
+)
 
